@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshaajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="akankshaajoshi" /> </p>
 
-- 🌱 I’m currently learning **Social Network Analysis.**
-
-- 👯 I’m looking to collaborate on **Full-stack Machine Learning Projects.**
+- 👯 I’m looking to collaborate on **Full-stack and Machine Learning Projects.**
 
 - 📫 How to reach me **joshiaj33@gmail.com**
+
+- 👀 Check out my portfolio: https://akankshajoshi.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
