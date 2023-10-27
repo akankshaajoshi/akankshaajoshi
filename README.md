@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **front end projects**
 
-- 🌱 I’m currently learning **Typescript**
-
 - 👯 I’m looking to collaborate on **full stack and machine learning projects**
 
 - 👨‍💻 All of my projects are available at [https://akankshajoshi.netlify.app/](https://akankshajoshi.netlify.app/)
