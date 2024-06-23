@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akankshaajoshi" alt="akankshaajoshi" /></a> </p>
 
-- 🔭 I’m currently working on **front end projects**
+- 🔭 I’m currently working on **full stack development**
 
 - 👯 I’m looking to collaborate on **full stack and machine learning projects**
 
