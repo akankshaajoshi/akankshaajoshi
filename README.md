@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akankshaajoshi" alt="akankshaajoshi" /></a> </p>
 
-- 🔭 I’m currently working on **full stack development**
+- 🔭 I’m currently working on **backend projects - designing scalable systems**
 
 - 👯 I’m looking to collaborate on **full stack and machine learning projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **joshiaj33@gmail.com**
 
-- ⚡ Fun fact **I love video games! :D**
+- ⚡ Fun fact **I love travelling & video games! :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
